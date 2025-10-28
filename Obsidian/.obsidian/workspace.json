@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a0e845d5a8d3de13",
+        "id": "1e14301b87b8a3ba",
         "type": "tabs",
         "children": [
           {
-            "id": "fbdc0e0785948e68",
+            "id": "60b054bfb38e0625",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "React/2. React Form Hook & Yup.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Tab mới"
+              "title": "2. React Form Hook & Yup"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 234.5
   },
   "right": {
     "id": "e60f6fedf1b74a3a",
@@ -143,13 +147,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "31e675f2dd7bac9b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,8 +177,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "90235fe76ef41526",
+  "active": "60b054bfb38e0625",
   "lastOpenFiles": [
+    "React/1. React Query.md",
+    "Android/1. Views & Layouts.md",
+    "React/2. React Form Hook & Yup.md",
     "Untitled.base",
     "DSA",
     "Backend Java",

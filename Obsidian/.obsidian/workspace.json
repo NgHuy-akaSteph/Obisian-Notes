@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/1. Views & Layouts.md",
+                "file": "React/React Query.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Views & Layouts"
+              "title": "React Query"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Trình duyệt tệp"
+              "title": "Files"
             }
           },
           {
@@ -112,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "React/React Query.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Liên kết đi ra từ React Query"
             }
           },
           {
@@ -140,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
+                "file": "React/React Query.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of React Query"
             }
           },
           {
@@ -159,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -167,21 +169,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "switcher:Mở bộ chuyển đổi nhanh": false,
-      "graph:Mở xem biểu đồ": false,
-      "canvas:Tạo bảng mới": false,
-      "daily-notes:Mở ghi chú hôm nay": false,
-      "templates:Chèn mẫu": false,
-      "command-palette:Mở khay lệnh": false,
       "bases:Create new base": false
     }
   },
   "active": "60b054bfb38e0625",
   "lastOpenFiles": [
-    "React/2. React Form Hook & Yup.md",
-    "React/1. React Query.md",
     "Android/1. Views & Layouts.md",
+    "React/2. React Form Hook & Yup.md",
+    "React/React Query.md",
     "Untitled.base",
     "DSA",
     "Backend Java",

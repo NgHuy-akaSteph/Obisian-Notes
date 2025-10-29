@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1e14301b87b8a3ba",
+        "id": "d8688ca6001c0193",
         "type": "tabs",
         "children": [
           {
-            "id": "60b054bfb38e0625",
+            "id": "3678ffd932ff36dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/React Query.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "React Query"
+              "title": "New tab"
             }
           }
         ]
@@ -141,13 +137,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/React Query.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of React Query"
+              "title": "Outline"
             }
           },
           {
@@ -165,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,11 +174,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "60b054bfb38e0625",
+  "active": "3678ffd932ff36dc",
   "lastOpenFiles": [
-    "Android/1. Views & Layouts.md",
-    "React/2. React Form Hook & Yup.md",
     "React/React Query.md",
+    "React/React Form Hook & Yup.md",
+    "Android/1. Views & Layouts.md",
     "Untitled.base",
     "DSA",
     "Backend Java",

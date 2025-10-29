@@ -1,7 +1,7 @@
 ## 1. useQuery
 - `useQuery`: là hook để lấy dữ liệu (fetch).
 - Các thuộc tính của useQuery:
-	- `queryKey(Array | string)`: giá trị duy nhất để react nhận diện và cache kết quả.
+	- <mark style="background: #BBFABBA6;">`queryKey(Array | string)`</mark>: giá trị duy nhất để react nhận diện và cache kết quả.
 	- `queryFn(() => Promise<T>)`: hàm async để fetch dữ liệu.
 	- `retry(number|boolean)`: 1,2...: số lần thử lại, false: không cho thử lại
 	- `select(data => any)`: cho phép biến đổi dữ liệu trước khi trả về (giống map)

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/ReactJS/React Form Hook & Zod.md",
+                "file": "Android/Java + XML/1. Views & Layouts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React Form Hook & Zod"
+              "title": "1. Views & Layouts"
             }
           }
         ]
@@ -194,10 +194,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "90235fe76ef41526",
+  "active": "3678ffd932ff36dc",
   "lastOpenFiles": [
-    "React/ReactJS/React Query.md",
     "React/ReactJS/React Form Hook & Zod.md",
+    "React/ReactJS/React Query.md",
     "Android/Java + XML/1. Views & Layouts.md",
     "React/ReactJS",
     "Android/Java + XML/Untitled",

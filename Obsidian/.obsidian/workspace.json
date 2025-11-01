@@ -11,14 +11,10 @@
             "id": "3678ffd932ff36dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/React Query.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "React Query"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -195,20 +191,22 @@
   },
   "active": "90235fe76ef41526",
   "lastOpenFiles": [
-    "Android/Untitled",
-    "React/React Query.md",
-    "React/React Form Hook & Yup.md",
+    "Android/Java + XML/1. Views & Layouts.md",
+    "React/ReactJS",
+    "Android/Java + XML/Untitled",
+    "Android/Kotlin + Jetpack Compose/2. Jetpack Compose",
+    "Android/Kotlin + Jetpack Compose/1. Kotlin",
+    "Android/Kotlin + Jetpack Compose",
+    "React/ReactJS/React Query.md",
+    "Android/Java + XML",
+    "React/ReactJS/React Form Hook & Yup.md",
     "Excalidraw/Drawing 2025-10-29 08.23.23.excalidraw.md",
     "Excalidraw",
     "Daily Notes/2025-10-29.md",
     "Daily Notes/Untitled.md",
     "Daily Notes",
-    "Android/1. Views & Layouts.md",
     "Untitled.base",
     "DSA",
-    "Backend Java",
-    "Android",
-    "Welcome.md",
-    "React"
+    "Welcome.md"
   ]
 }

@@ -23,6 +23,6 @@
 	- `onError()`: khi mutation thất bại
 	- `onSettled()`: khi mutation kết thúc (thành công/thất bại) -> reset form, ẩn loading, log kết quả
 
-[[React Form Hook & Yup]]
+[[React Form Hook & Zod]]
 
 

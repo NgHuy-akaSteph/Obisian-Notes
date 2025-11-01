@@ -11,10 +11,14 @@
             "id": "3678ffd932ff36dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "React/ReactJS/React Form Hook & Zod.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "React Form Hook & Zod"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 204.5
   },
   "right": {
     "id": "e60f6fedf1b74a3a",
@@ -108,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "React/ReactJS/React Form Hook & Zod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from React Form Hook & Zod"
             }
           },
           {
@@ -191,15 +196,15 @@
   },
   "active": "90235fe76ef41526",
   "lastOpenFiles": [
+    "React/ReactJS/React Query.md",
+    "React/ReactJS/React Form Hook & Zod.md",
     "Android/Java + XML/1. Views & Layouts.md",
     "React/ReactJS",
     "Android/Java + XML/Untitled",
     "Android/Kotlin + Jetpack Compose/2. Jetpack Compose",
     "Android/Kotlin + Jetpack Compose/1. Kotlin",
     "Android/Kotlin + Jetpack Compose",
-    "React/ReactJS/React Query.md",
     "Android/Java + XML",
-    "React/ReactJS/React Form Hook & Yup.md",
     "Excalidraw/Drawing 2025-10-29 08.23.23.excalidraw.md",
     "Excalidraw",
     "Daily Notes/2025-10-29.md",

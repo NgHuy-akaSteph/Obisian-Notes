@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/Quản lý dự án phần mềm.md",
+                "file": "Flutter/Stateless Widget & Statefull Widget.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quản lý dự án phần mềm"
-            }
-          },
-          {
-            "id": "05eb45f5c51e5f70",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "title": "Stateless Widget & Statefull Widget"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,12 +194,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "05eb45f5c51e5f70",
+  "active": "4271b1368339a824",
   "lastOpenFiles": [
+    "Daily/Quản lý dự án phần mềm.md",
+    "Flutter/Stateless Widget & Statefull Widget.md",
+    "Flutter",
     "Daily/attachments/qlda.jpg",
     "Daily/attachments",
     "Daily/qlda.jpg",
-    "Daily/Quản lý dự án phần mềm.md",
     "qlda.jpg",
     "Daily",
     "React/Untitled",
@@ -226,7 +215,6 @@
     "Android/Kotlin + Jetpack Compose",
     "Android/Java + XML",
     "Excalidraw/Drawing 2025-10-29 08.23.23.excalidraw.md",
-    "Excalidraw",
     "Daily Notes/2025-10-29.md",
     "Daily Notes/Untitled.md",
     "Welcome.md"

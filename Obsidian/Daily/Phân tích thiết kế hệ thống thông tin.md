@@ -29,6 +29,31 @@
 - S là siêu khóa của R nếu với r là quan hệ trên R, t1, t2 là hai bộ bất kì thuộc r thì t1.S != t2.S
 - Một lược đồ quan hệ có thể có một hoặc nhiều siêu khóa
 
+### 1.3 Chuẩn hóa NF
+#### a) Chuẩn hóa 1NF
+
+#### b) Chuẩn hóa 2NF
+
+#### c) Chuẩn hóa 3NF
+- Một lược đồ quan hệ R đạt dạng chuẩn 3 nếu mọi phụ thuộc hàm 
+  X -> A $\in$ F+ (F là tập phụ thuộc hàm không hiển nhiên định nghĩa trên R, A là thuộc tính đơn, X là tập thuộc tính con của tập F+)
+- - X là một siêu khóa của R
+- - A là một thuộc tính khóa
+- -> R đạt chuẩn 3 thì R đạt chuẩn 2
+#### d) Các bước chuẩn hóa
+- Đưa về chuẩn 1:
+	- Nhóm các thuộc tính đơn còn lại tạo thành 1 quan hệ. Chọn khóa cho nó.
+	- Nhóm các thuộc tính lặp tách ra cùng với khóa của quan hệ trên tạo thành 1 quan hệ ( hay một số quan hệ theo chủ đề)
+- Đưa về dạng chuẩn 2:
+	- Tách các nhóm thuộc tính phụ thuộc hàm vào một bộ phận của khóa (xét các quan hệ có khóa kép).
+	- Nhóm còn lại tạo thành 1 quan hệ với khóa cũ.
+	- Mỗi nhóm tách ra, gồm các thuộc tính cùng phụ thuộc và một hay một số thuộc tính nào đó của khóa, cộng thêm các thuộc tính mà chúng phụ thuộc tạo thành 1 quan hệ, với các khóa là các thuộc tính cộng thêm này.
+- Đưa về dạng chuẩn 3: 
+	- Tách các thuộc tính phụ thuộc hàm vào một hay một số bộ phận của khóa.
+	- Nhóm còn lại tạo thành 1 quan hệ với khóa cũ
+	- Mỗi nhóm tách ra gồm thuộc tính cùng phụ thuộc hàm vào một hay một số thuộc tính không phải là khóa, cộng thêm các thuộc tính mà chúng phụ thuộc tạo thành một quan hệ, với khóa là các thuộc tính cộng thêm này.
+- Ví dụ: 
+
 
 
 

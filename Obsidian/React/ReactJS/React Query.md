@@ -1,5 +1,5 @@
 ## 1. useQuery
-- `useQuery`: là hook để lấy dữ liệu (fetch).
+- Là hook để lấy dữ liệu (fetch).
 - Các thuộc tính của useQuery:
 	- `queryKey(Array | string)`: giá trị duy nhất để react nhận diện  và cache kết quả.
 	- `queryFn(() => Promise<T>)`: hàm async để fetch dữ liệu.
@@ -7,9 +7,16 @@
 	- `select(data => any)`: cho phép biến đổi dữ liệu trước khi trả về (giống map)
 	- `enabled(boolean)`: nếu false -> query không tự chạy được
 	- `keepPreviousData (boolean)`: giữ lại dữ liệu cũ trong khi đang fetch dữ liệu mới => dùng cho phân trang
+- Giá trị trả về của useQuery:
+	- data: dữ liệu từ API
+	- error: lỗi (nếu có)
+	- isLoading: đang tải
+	- isError: có lỗi hay không
+	- isSuccess: thành công hay không
+	- refetch: hàm để fetch lại
 - ==Notes==: `!!`: chuyển một giá trị bất kỳ thành boolean.
 ## 2. useMutation
-* `useMutation`: là hook dùng để thực hiện những thao tác thay đổi dữ liệu (POST, PUT, PATCH, DELETE)
+* Là hook dùng để thực hiện những thao tác thay đổi dữ liệu (POST, PUT, PATCH, DELETE)
 * Các tham số liên quan:
 	- `mutate()`: hàm thực thi mutation 
 	- `mutateAsync()`: giống mutatte

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/Phân tích thiết kế hệ thống thông tin.md",
+                "file": "React/ReactJS/React Query.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phân tích thiết kế hệ thống thông tin"
+              "title": "React Query"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "4271b1368339a824",
   "lastOpenFiles": [
-    "Flutter/Stateless Widget & Statefull Widget.md",
     "Daily/Phân tích thiết kế hệ thống thông tin.md",
+    "Flutter/Stateless Widget & Statefull Widget.md",
     "Daily/Quản lý dự án phần mềm.md",
     "Flutter",
     "Daily/attachments/qlda.jpg",

@@ -11,10 +11,10 @@
             "id": "87ba913b25124190",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -190,7 +190,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "90235fe76ef41526",
+  "active": "87ba913b25124190",
   "lastOpenFiles": [
     "Mobile/Mobile.md",
     "Mobile/Mobile.base",

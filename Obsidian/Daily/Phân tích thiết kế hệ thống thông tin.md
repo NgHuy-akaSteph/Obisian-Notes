@@ -53,7 +53,7 @@
 	- Nhóm còn lại tạo thành 1 quan hệ với khóa cũ
 	- Mỗi nhóm tách ra gồm thuộc tính cùng phụ thuộc hàm vào một hay một số thuộc tính không phải là khóa, cộng thêm các thuộc tính mà chúng phụ thuộc tạo thành một quan hệ, với khóa là các thuộc tính cộng thêm này.
 - Ví dụ: 
-
+	
 
 
 

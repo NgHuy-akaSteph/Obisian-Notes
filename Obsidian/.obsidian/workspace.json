@@ -11,10 +11,14 @@
             "id": "87ba913b25124190",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Mobile/Flutter/Stateless Widget & Statefull Widget.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stateless Widget & Statefull Widget"
             }
           }
         ]
@@ -108,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/ReactJS/React Form Hook & Zod.md",
+                "file": "Mobile/Flutter/Stateless Widget & Statefull Widget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from React Form Hook & Zod"
+              "title": "Outgoing links from Stateless Widget & Statefull Widget"
             }
           },
           {

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/Phân tích thiết kế hệ thống thông tin.md",
+                "file": "Mobile/Flutter/UI/Theme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phân tích thiết kế hệ thống thông tin"
+              "title": "Theme"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 220.5
   },
   "right": {
     "id": "e60f6fedf1b74a3a",
@@ -196,12 +196,14 @@
   },
   "active": "87ba913b25124190",
   "lastOpenFiles": [
+    "Daily/Phân tích thiết kế hệ thống thông tin.md",
+    "Mobile/Flutter/UI/Theme.md",
+    "Mobile/Flutter/UI",
     "Daily/Quản lý dự án phần mềm.md",
-    "Mobile/Flutter/Stateless Widget & Statefull Widget.md",
+    "Mobile/Flutter/UI/Stateless Widget & Statefull Widget.md",
     "Mobile/Mobile.md",
     "Mobile/Mobile.base",
     "Mobile",
-    "Daily/Phân tích thiết kế hệ thống thông tin.md",
     "Untitled.base",
     "Mobile/Untitled.base",
     "Frontend/ReactJS/React Query.md",
@@ -213,7 +215,6 @@
     "Daily/attachments",
     "Daily/qlda.jpg",
     "qlda.jpg",
-    "Daily",
     "Mobile/Android/Java + XML/1. Views & Layouts.md",
     "Frontend/ReactJS/React Form Hook & Zod.md",
     "Excalidraw/Drawing 2025-10-29 08.23.23.excalidraw.md",

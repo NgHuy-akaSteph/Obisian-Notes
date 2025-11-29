@@ -53,8 +53,11 @@
 	- Nhóm còn lại tạo thành 1 quan hệ với khóa cũ
 	- Mỗi nhóm tách ra gồm thuộc tính cùng phụ thuộc hàm vào một hay một số thuộc tính không phải là khóa, cộng thêm các thuộc tính mà chúng phụ thuộc tạo thành một quan hệ, với khóa là các thuộc tính cộng thêm này.
 - Ví dụ: 
-	
+## 2. Bài tập 
 
+B1: Chuẩn hóa 1NF đến 3NF
+B2: Vẽ ERD (biểu diễn các bảng và quan hệ)
+B3: Viết chương trình
 
 
 

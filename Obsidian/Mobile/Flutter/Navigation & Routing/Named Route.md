@@ -1,0 +1,2 @@
+- Cơ chế: Mỗi màn hình sẽ có một tên riêng và sẽ sử dụng làm định vị để chuyển đến màn hình đó.
+- 

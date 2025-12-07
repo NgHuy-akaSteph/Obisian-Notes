@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e382ac06e3bcdc3a",
+        "id": "d7530a848c5b6f69",
         "type": "tabs",
         "children": [
           {
-            "id": "37a3e4387a21a2fe",
+            "id": "adaef69ccbd2047b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5,
+    "width": 270.5,
     "collapsed": true
   },
   "right": {
@@ -195,11 +195,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "37a3e4387a21a2fe",
+  "active": "adaef69ccbd2047b",
   "lastOpenFiles": [
+    "Mobile/Flutter/2 - UI/Stateless Widget & Statefull Widget.md",
+    "Mobile/Flutter/4 - State management/4.2 Provider.md",
     "Mobile/Flutter/4 - State management/Untitled.md",
     "Mobile/Flutter/4 - State management/4.1 Declarative - State.md",
-    "Mobile/Flutter/4 - State management/4.2 Provider.md",
     "Mobile/Flutter/4 - State management/4.3 Riverpod.md",
     "Mobile/Flutter/4 - State management/4.4 BloC.md",
     "Mobile/Flutter/4 - State management/Untitled",
@@ -214,7 +215,6 @@
     "Daily/Phân tích thiết kế hệ thống thông tin.md",
     "Mobile/Flutter/2 - UI",
     "Daily/Quản lý dự án phần mềm.md",
-    "Mobile/Flutter/2 - UI/Stateless Widget & Statefull Widget.md",
     "Mobile/Mobile.md",
     "Mobile/Mobile.base",
     "Mobile",

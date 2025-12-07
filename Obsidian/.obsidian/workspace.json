@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
-    "collapsed": true
+    "width": 270.5
   },
   "right": {
     "id": "e60f6fedf1b74a3a",
@@ -197,8 +196,9 @@
   },
   "active": "adaef69ccbd2047b",
   "lastOpenFiles": [
-    "Mobile/Flutter/2 - UI/Stateless Widget & Statefull Widget.md",
+    "Mobile/Flutter/3 - Navigation & Routing/3. Sử dụng go_router.md",
     "Mobile/Flutter/4 - State management/4.2 Provider.md",
+    "Mobile/Flutter/2 - UI/Stateless Widget & Statefull Widget.md",
     "Mobile/Flutter/4 - State management/Untitled.md",
     "Mobile/Flutter/4 - State management/4.1 Declarative - State.md",
     "Mobile/Flutter/4 - State management/4.3 Riverpod.md",
@@ -206,7 +206,6 @@
     "Mobile/Flutter/4 - State management/Untitled",
     "Mobile/Flutter/4 - State management",
     "Mobile/Flutter/1- Start/Bắt đầu dự án.md",
-    "Mobile/Flutter/3 - Navigation & Routing/3. Sử dụng go_router.md",
     "Mobile/Flutter/3 - Navigation & Routing/2. Named Route.md",
     "Mobile/Flutter/3 - Navigation & Routing/1. Navagation cơ bản.md",
     "Mobile/Flutter/1- Start",

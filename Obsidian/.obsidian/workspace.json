@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mobile/Flutter/4 - State management/4.2 Provider.md",
+                "file": "Mobile/Flutter/1- Start/Một số package trong Flutter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.2 Provider"
+              "title": "Một số package trong Flutter"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
-    "collapsed": true
+    "width": 270.5
   },
   "right": {
     "id": "e60f6fedf1b74a3a",
@@ -197,8 +196,10 @@
   },
   "active": "adaef69ccbd2047b",
   "lastOpenFiles": [
-    "Mobile/Flutter/3 - Navigation & Routing/3. Sử dụng go_router.md",
     "Mobile/Flutter/4 - State management/4.2 Provider.md",
+    "Mobile/Flutter/1- Start/Một số package trong Flutter.md",
+    "Mobile/Flutter/Untitled",
+    "Mobile/Flutter/3 - Navigation & Routing/3. Sử dụng go_router.md",
     "Mobile/Flutter/2 - UI/Stateless Widget & Statefull Widget.md",
     "Mobile/Flutter/4 - State management/Untitled.md",
     "Mobile/Flutter/4 - State management/4.1 Declarative - State.md",
@@ -221,7 +222,6 @@
     "Untitled.base",
     "Mobile/Untitled.base",
     "Frontend/ReactJS/React Query.md",
-    "Frontend",
     "Daily/attachments/qlda.jpg",
     "Daily/qlda.jpg",
     "qlda.jpg",

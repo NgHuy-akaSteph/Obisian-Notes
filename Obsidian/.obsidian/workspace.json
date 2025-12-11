@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mobile/Flutter/4 - State management/4.3 Riverpod.md",
+                "file": "Mobile/Flutter/4 - State management/4.2 Provider.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.3 Riverpod"
+              "title": "4.2 Provider"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "637a18dd884e5e49",
   "lastOpenFiles": [
-    "().md",
     "Mobile/Flutter/4 - State management/4.3 Riverpod.md",
+    "().md",
     "Mobile/Flutter/4 - State management/4.2 Provider.md",
     "Mobile/Flutter/1- Start/Một số package trong Flutter.md",
     "Mobile/Flutter/Untitled",

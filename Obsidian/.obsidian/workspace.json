@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8c18241ce24f89a6",
+        "id": "456c29649d7f8862",
         "type": "tabs",
         "children": [
           {
-            "id": "0d325f5e464872ed",
+            "id": "a6bd5052353d3652",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -194,11 +194,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d325f5e464872ed",
+  "active": "a6bd5052353d3652",
   "lastOpenFiles": [
+    "Mobile/Flutter/4 - State management/attachments/Pasted image 20251218140351.png",
+    "Mobile/Flutter/4 - State management/attachments/Pasted image 20251218140208.png",
+    "Mobile/Flutter/4 - State management/4.3 Riverpod.md",
+    "Mobile/Flutter/4 - State management/attachments",
     "Mobile/Flutter/4 - State management/4.4 BloC.md",
     "Mobile/Flutter/4 - State management/4.2 Provider.md",
-    "Mobile/Flutter/4 - State management/4.3 Riverpod.md",
     "Mobile/Flutter/4 - State management/4.1 Declarative - State.md",
     "().md",
     "Mobile/Android/Kotlin + Jetpack Compose/1. Kotlin/Tổng quan về Kotlin.md",
@@ -222,7 +225,6 @@
     "Mobile/Mobile.base",
     "Mobile",
     "Untitled.base",
-    "Mobile/Untitled.base",
     "Frontend/ReactJS/React Query.md",
     "Daily/attachments/qlda.jpg",
     "Daily/qlda.jpg",

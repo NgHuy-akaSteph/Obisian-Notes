@@ -1,5 +1,7 @@
 {
   "theme": "system",
   "cssTheme": "Minimal",
-  "textFontFamily": "Cascadia Code"
+  "textFontFamily": "Cascadia Code",
+  "baseFontSize": 17,
+  "baseFontSizeAction": true
 }

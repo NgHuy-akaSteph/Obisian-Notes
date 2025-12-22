@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mobile/Flutter/4 - State management/4.3 Riverpod.md",
+                "file": "Mobile/Flutter/4 - State management/4.4 BloC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.3 Riverpod"
+              "title": "4.4 BloC"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
-    "collapsed": true
+    "width": 270.5
   },
   "right": {
     "id": "e60f6fedf1b74a3a",
@@ -197,9 +196,9 @@
   },
   "active": "a6bd5052353d3652",
   "lastOpenFiles": [
+    "Mobile/Flutter/4 - State management/4.3 Riverpod.md",
     "Mobile/Flutter/4 - State management/4.2 Provider.md",
     "Mobile/Flutter/4 - State management/4.1 Declarative - State.md",
-    "Mobile/Flutter/4 - State management/4.3 Riverpod.md",
     "Mobile/Flutter/4 - State management/attachments/Pasted image 20251218140351.png",
     "Mobile/Flutter/4 - State management/attachments/Pasted image 20251218140208.png",
     "Mobile/Flutter/4 - State management/attachments",

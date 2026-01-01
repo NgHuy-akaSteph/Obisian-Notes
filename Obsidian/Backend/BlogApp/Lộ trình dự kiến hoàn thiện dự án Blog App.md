@@ -1,0 +1,3 @@
+- Thời gian dự kiến : 5 tháng
+- Tháng 1: Hoàn thiện cấu trúc Modular, Spring Security và CRUD cơ bản
+- Tháng 

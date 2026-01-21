@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Module Identity"
             }
-          },
-          {
-            "id": "32b763462fe20cf0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,7 +194,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "32b763462fe20cf0",
+  "active": "1e9c5c9400b2df58",
   "lastOpenFiles": [
     "Self Learning/Backend/BlogApp/Lộ trình dự kiến hoàn thiện dự án Blog App.md",
     "Self Learning/Backend/BlogApp/Module Identity.md",

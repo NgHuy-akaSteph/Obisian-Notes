@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Lộ trình dự kiến hoàn thiện dự án Blog App"
             }
+          },
+          {
+            "id": "f1f9b82e0141a618",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +207,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "90235fe76ef41526",
+  "active": "f1f9b82e0141a618",
   "lastOpenFiles": [
     "Self Learning",
     "Self Learning/Backend/BlogApp/Lộ trình dự kiến hoàn thiện dự án Blog App.md",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Backend/BlogApp/Module Identity.md",
+                "file": "Self Learning/Backend/BlogApp/Lộ trình dự kiến hoàn thiện dự án Blog App.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module Identity"
+              "title": "Lộ trình dự kiến hoàn thiện dự án Blog App"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "1e9c5c9400b2df58",
   "lastOpenFiles": [
-    "Self Learning/Backend/BlogApp/Lộ trình dự kiến hoàn thiện dự án Blog App.md",
     "Self Learning/Backend/BlogApp/Module Identity.md",
+    "Self Learning/Backend/BlogApp/Lộ trình dự kiến hoàn thiện dự án Blog App.md",
     "Self Learning",
     "Self Learning/Backend/BlogApp",
     "Self Learning/Mobile/Flutter/4 - State management/4.4 BloC.md",

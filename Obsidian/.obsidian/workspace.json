@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "In School/ChatApp/ChatApp API Reference.md",
+                "file": "In School/ChatApp/Documents Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ChatApp API Reference"
+              "title": "Documents Design"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 262.5
   },
   "right": {
     "id": "e60f6fedf1b74a3a",
@@ -196,8 +196,10 @@
   },
   "active": "ed47166048ffce1f",
   "lastOpenFiles": [
-    "Self Learning/Backend/IntelliJ IDEA Keybinding trên cả hai hệ điều hành Windows và macOS.md",
+    "In School/ChatApp/ChatApp Document Design.md",
+    "In School/ChatApp/Documents Design.md",
     "In School/ChatApp/ChatApp API Reference.md",
+    "Self Learning/Backend/IntelliJ IDEA Keybinding trên cả hai hệ điều hành Windows và macOS.md",
     "Self Learning/Backend/Database/MongoDB/1. Query Optimize.md",
     "Self Learning/Mobile/Android/Kotlin + Jetpack Compose/1. Kotlin/Tổng quan về Kotlin.md",
     "Self Learning/Frontend/ReactJS/React Query.md",
@@ -232,8 +234,6 @@
     "Self Learning/Mobile/Flutter/3 - Navigation & Routing/1. Navagation cơ bản.md",
     "Self Learning/Mobile/Flutter/2 - UI/Theme.md",
     "In School/Phân tích thiết kế hệ thống thông tin.md",
-    "In School/Quản lý dự án phần mềm.md",
-    "Self Learning/Mobile/Mobile.md",
     "In School/attachments/qlda.jpg",
     "Daily/qlda.jpg",
     "qlda.jpg"

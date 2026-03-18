@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3bea0d42b52f7e8f",
+        "id": "b63563e9c84ce5cd",
         "type": "tabs",
         "children": [
           {
-            "id": "457915db4df781eb",
+            "id": "ed47166048ffce1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Backend/Database/MongoDB/1. Query Optimize.md",
+                "file": "Self Learning/Backend/IntelliJ IDEA Keybinding trên cả hai hệ điều hành Windows và macOS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Query Optimize"
-            }
-          },
-          {
-            "id": "adb261376503d75b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Self Learning/Mobile/Android/Kotlin + Jetpack Compose/1. Kotlin/Tổng quan về Kotlin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tổng quan về Kotlin"
+              "title": "IntelliJ IDEA Keybinding trên cả hai hệ điều hành Windows và macOS"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,8 +194,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "adb261376503d75b",
+  "active": "ed47166048ffce1f",
   "lastOpenFiles": [
+    "Self Learning/Backend/IntelliJ IDEA Keybinding trên cả hai hệ điều hành Windows và macOS.md",
     "Self Learning/Backend/Database/MongoDB/1. Query Optimize.md",
     "Self Learning/Mobile/Android/Kotlin + Jetpack Compose/1. Kotlin/Tổng quan về Kotlin.md",
     "Self Learning/Frontend/ReactJS/React Query.md",
@@ -250,7 +236,6 @@
     "In School/attachments/qlda.jpg",
     "Daily/qlda.jpg",
     "qlda.jpg",
-    "Self Learning/Mobile/Android/Java + XML/1. Views & Layouts.md",
-    "Excalidraw/Drawing 2025-10-29 08.23.23.excalidraw.md"
+    "Self Learning/Mobile/Android/Java + XML/1. Views & Layouts.md"
   ]
 }

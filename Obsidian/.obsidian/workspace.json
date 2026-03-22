@@ -11,10 +11,14 @@
             "id": "002a0784b7f24c5f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "In School/ChatApp/1. Triển khai Api Gateway và Security.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1. Triển khai Api Gateway và Security"
             }
           }
         ]
@@ -191,15 +195,17 @@
   },
   "active": "002a0784b7f24c5f",
   "lastOpenFiles": [
+    "In School/ChatApp/tmp",
+    "In School/ChatApp/1. Triển khai Api Gateway và Security.md",
     "Self Learning/Linux/2. Vim.md",
     "Self Learning/Linux/1. Các lệnh Linux thông dụng.md",
     "Cấu trúc tệp hệ thống của Linux.md",
     "Self Learning/Linux/attachments/linux-system-files.png",
     "Self Learning/Linux/attachments",
-    "In School/ChatApp/Documents Design.md",
+    "In School/ChatApp/tmp/Documents Design.md",
     "Self Learning/Linux",
-    "In School/ChatApp/ChatApp Document Design.md",
-    "In School/ChatApp/ChatApp API Reference.md",
+    "In School/ChatApp/tmp/ChatApp Document Design.md",
+    "In School/ChatApp/tmp/ChatApp API Reference.md",
     "Self Learning/Backend/IntelliJ IDEA Keybinding trên cả hai hệ điều hành Windows và macOS.md",
     "Self Learning/Backend/Database/MongoDB/1. Query Optimize.md",
     "Self Learning/Mobile/Android/Kotlin + Jetpack Compose/1. Kotlin/Tổng quan về Kotlin.md",
@@ -228,8 +234,6 @@
     "Self Learning/Mobile/Flutter/3 - Navigation & Routing/3. Sử dụng go_router.md",
     "Self Learning/Mobile/Flutter/2 - UI/Stateless Widget & Statefull Widget.md",
     "Mobile/Flutter/4 - State management/Untitled.md",
-    "Self Learning/Mobile/Flutter/1- Start/Bắt đầu dự án.md",
-    "Self Learning/Mobile/Flutter/3 - Navigation & Routing/2. Named Route.md",
     "In School/attachments/qlda.jpg",
     "Daily/qlda.jpg",
     "qlda.jpg"

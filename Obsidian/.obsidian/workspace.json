@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "In School/ChatApp/1. Triển khai Api Gateway và Security.md",
+                "file": "Self Learning/Backend/IntelliJ IDEA Keybinding trên cả hai hệ điều hành Windows và macOS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Triển khai Api Gateway và Security"
+              "title": "IntelliJ IDEA Keybinding trên cả hai hệ điều hành Windows và macOS"
             }
           }
         ]
@@ -195,8 +195,8 @@
   },
   "active": "002a0784b7f24c5f",
   "lastOpenFiles": [
-    "In School/ChatApp/tmp",
     "In School/ChatApp/1. Triển khai Api Gateway và Security.md",
+    "In School/ChatApp/tmp",
     "Self Learning/Linux/2. Vim.md",
     "Self Learning/Linux/1. Các lệnh Linux thông dụng.md",
     "Cấu trúc tệp hệ thống của Linux.md",
@@ -218,7 +218,6 @@
     "Self Learning/Projects",
     "Self Learning/Backend/Cache",
     "Self Learning/Backend/OS & Concurency",
-    "Self Learning/Backend/Network & HTTP",
     "In School/SOA/0. Microservices Patterns.md",
     "In School/SOA/1. Escaping monolithic hell.md",
     "Self Learning/Projects/BlogApp/Module Identity.md",

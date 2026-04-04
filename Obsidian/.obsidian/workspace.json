@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Backend/IntelliJ IDEA Keybinding trên cả hai hệ điều hành Windows và macOS.md",
+                "file": "Self Learning/Backend/Java/OOP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IntelliJ IDEA Keybinding trên cả hai hệ điều hành Windows và macOS"
+              "title": "OOP"
             }
           }
         ]
@@ -195,9 +195,11 @@
   },
   "active": "cd27a0d5924e93df",
   "lastOpenFiles": [
+    "Self Learning/Backend/IntelliJ IDEA Keybinding trên cả hai hệ điều hành Windows và macOS.md",
+    "Self Learning/Backend/Java/OOP.md",
+    "Self Learning/Backend/Java",
     "In School/IOT/CHƯƠNG 3 - PHÁT TRIỂN HỆ THỐNG IOT.md",
     "In School/IOT",
-    "Self Learning/Backend/IntelliJ IDEA Keybinding trên cả hai hệ điều hành Windows và macOS.md",
     "In School/ChatApp/1. Triển khai Api Gateway và Security.md",
     "In School/ChatApp/tmp",
     "Self Learning/Linux/2. Vim.md",
@@ -218,7 +220,6 @@
     "In School/ChatApp/ChatService",
     "In School/ChatApp",
     "Self Learning/Projects",
-    "Self Learning/Backend/Cache",
     "In School/SOA/0. Microservices Patterns.md",
     "In School/SOA/1. Escaping monolithic hell.md",
     "Self Learning/Projects/BlogApp/Module Identity.md",
@@ -233,7 +234,6 @@
     "Self Learning/Mobile/Flutter/1- Start/Một số package trong Flutter.md",
     "Self Learning/Mobile/Flutter/3 - Navigation & Routing/3. Sử dụng go_router.md",
     "Self Learning/Mobile/Flutter/2 - UI/Stateless Widget & Statefull Widget.md",
-    "Mobile/Flutter/4 - State management/Untitled.md",
     "In School/attachments/qlda.jpg",
     "Daily/qlda.jpg",
     "qlda.jpg"

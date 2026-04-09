@@ -93,3 +93,25 @@ def solve():
 if __name__ == '__main__':  
     solve()
 
+
+![[Pasted image 20260409201703.png]]
+def solve():  
+    for k in range(int(input())):  
+        n, b = map(int, input().split())  
+        if n == 0:  
+            print('0')  
+            continue  
+        res = ''  
+        while n > 0:  
+            rem = n % b  
+            if rem < 10:  
+                res += str(rem)  
+            else:  
+                res += chr(ord('A') + rem - 10)  
+            n //= b  
+        print(res[::-1])  
+  
+if __name__ == '__main__':  
+    solve()
+
+

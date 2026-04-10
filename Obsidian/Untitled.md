@@ -115,3 +115,25 @@ if __name__ == '__main__':
     solve()
 
 
+![[Pasted image 20260409204312.png]]
+
+def solve():  
+    s = input().strip()  
+    if s.startswith('-'):  
+        s = s[1:]  
+  
+    if len(s) == 1:  
+        print(1)  
+        return  
+  
+    steps = 0  
+    while len(s) > 1:  
+        total = sum(map(int, s))  
+        s = str(total)  
+        steps += 1  
+  
+    print(steps)  
+  
+  
+if __name__ == '__main__':  
+    solve()

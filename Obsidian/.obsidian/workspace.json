@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Backend/Java/1.JDK, JRE, JVM.md",
+                "file": "Self Learning/Backend/Java/3.1 OOP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.JDK, JRE, JVM"
+              "title": "3.1 OOP"
             }
           }
         ]
@@ -195,9 +195,10 @@
   },
   "active": "00efc8ace4c40fa8",
   "lastOpenFiles": [
+    "Self Learning/Backend/Java/3.2 OOP Interview.md",
+    "Self Learning/Backend/Java/3.1 OOP.md",
     "Self Learning/Backend/Java/1.JDK, JRE, JVM.md",
     "In School/Untitled",
-    "Self Learning/Backend/Java/OOP.md",
     "Untitled.md",
     "attachments/Pasted image 20260409204312.png",
     "attachments/Pasted image 20260409201703.png",
@@ -239,7 +240,6 @@
     "Self Learning/Mobile/Flutter/4 - State management/4.1 Declarative - State.md",
     "Mobile/Flutter/4 - State management/attachments/Pasted image 20251218140351.png",
     "Mobile/Flutter/4 - State management/attachments/Pasted image 20251218140208.png",
-    "().md",
-    "Self Learning/Mobile/Flutter/1- Start/Một số package trong Flutter.md"
+    "().md"
   ]
 }

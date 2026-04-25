@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d1623d6530ca2a95",
+        "id": "49a7cd62cf1d8988",
         "type": "tabs",
         "children": [
           {
-            "id": "00efc8ace4c40fa8",
+            "id": "15a6317041a6da49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Backend/Java/3.1 OOP.md",
+                "file": "In School/job-portal/Deploy with Microsoft Azure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1 OOP"
+              "title": "Deploy with Microsoft Azure"
             }
           }
         ]
@@ -193,13 +193,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "00efc8ace4c40fa8",
+  "active": "15a6317041a6da49",
   "lastOpenFiles": [
-    "Self Learning/Backend/Java/3.2 OOP Interview.md",
-    "Self Learning/Backend/Java/3.1 OOP.md",
-    "Self Learning/Backend/Java/1.JDK, JRE, JVM.md",
-    "In School/Untitled",
+    "In School/job-portal/attachments/Pasted image 20260425214953.png",
+    "In School/job-portal/attachments",
     "Untitled.md",
+    "In School/job-portal/Deploy with Microsoft Azure.md",
+    "In School/job-portal",
+    "Self Learning/Backend/Java/3.1 OOP.md",
+    "Self Learning/Backend/Java/3.2 OOP Interview.md",
+    "Self Learning/Backend/Java/1.JDK, JRE, JVM.md",
     "attachments/Pasted image 20260409204312.png",
     "attachments/Pasted image 20260409201703.png",
     "attachments/Pasted image 20260409200429.png",
@@ -229,7 +232,6 @@
     "Self Learning/Frontend/ReactJS/React Form Hook & Zod.md",
     "Self Learning/Backend/Database/MongoDB",
     "In School/ChatApp/MediaService",
-    "In School/ChatApp/ChatService",
     "In School/SOA/0. Microservices Patterns.md",
     "In School/SOA/1. Escaping monolithic hell.md",
     "Self Learning/Projects/BlogApp/Module Identity.md",
@@ -237,9 +239,7 @@
     "Self Learning/Mobile/Flutter/4 - State management/4.4 BloC.md",
     "Self Learning/Mobile/Flutter/4 - State management/4.3 Riverpod.md",
     "Self Learning/Mobile/Flutter/4 - State management/4.2 Provider.md",
-    "Self Learning/Mobile/Flutter/4 - State management/4.1 Declarative - State.md",
     "Mobile/Flutter/4 - State management/attachments/Pasted image 20251218140351.png",
-    "Mobile/Flutter/4 - State management/attachments/Pasted image 20251218140208.png",
-    "().md"
+    "Mobile/Flutter/4 - State management/attachments/Pasted image 20251218140208.png"
   ]
 }

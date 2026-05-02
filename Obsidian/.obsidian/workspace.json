@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "49a7cd62cf1d8988",
+        "id": "4ad8b9a0b1470197",
         "type": "tabs",
         "children": [
           {
-            "id": "15a6317041a6da49",
+            "id": "2cf643aceebefecf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "In School/job-portal/Untitled.md",
+                "file": "In School/IOT/Mã nguồn test linh kiện.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Mã nguồn test linh kiện"
             }
           }
         ]
@@ -193,10 +193,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "15a6317041a6da49",
+  "active": "2cf643aceebefecf",
   "lastOpenFiles": [
-    "In School/job-portal/Deploy with Microsoft Azure.md",
+    "In School/IOT/CHƯƠNG 3 - PHÁT TRIỂN HỆ THỐNG IOT.md",
+    "In School/IOT/Mã nguồn test linh kiện.md",
     "In School/job-portal/Untitled.md",
+    "In School/job-portal/Deploy with Microsoft Azure.md",
     "In School/job-portal/attachments/Pasted image 20260425214953.png",
     "In School/job-portal/attachments",
     "Untitled.md",
@@ -214,7 +216,6 @@
     "attachments",
     "Self Learning/Backend/IntelliJ IDEA Keybinding trên cả hai hệ điều hành Windows và macOS.md",
     "Self Learning/Backend/Java",
-    "In School/IOT/CHƯƠNG 3 - PHÁT TRIỂN HỆ THỐNG IOT.md",
     "In School/IOT",
     "In School/ChatApp/1. Triển khai Api Gateway và Security.md",
     "In School/ChatApp/tmp",
@@ -239,7 +240,6 @@
     "Self Learning/Projects/BlogApp/Lộ trình dự kiến hoàn thiện dự án Blog App.md",
     "Self Learning/Mobile/Flutter/4 - State management/4.4 BloC.md",
     "Self Learning/Mobile/Flutter/4 - State management/4.3 Riverpod.md",
-    "Self Learning/Mobile/Flutter/4 - State management/4.2 Provider.md",
     "Mobile/Flutter/4 - State management/attachments/Pasted image 20251218140351.png"
   ]
 }

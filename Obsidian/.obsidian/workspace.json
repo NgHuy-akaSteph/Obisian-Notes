@@ -11,10 +11,14 @@
             "id": "a2361a976cea8b52",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/NodeJs/Backend Roadmap — ExpressJS + PostgreSQL Project Management SaaS.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Backend Roadmap — ExpressJS + PostgreSQL Project Management SaaS"
             }
           }
         ]
@@ -191,6 +195,8 @@
   },
   "active": "a2361a976cea8b52",
   "lastOpenFiles": [
+    "Self Learning/NodeJs/Backend Roadmap — ExpressJS + PostgreSQL Project Management SaaS.md",
+    "Self Learning/NodeJs",
     "In School/IOT/Mã nguồn test linh kiện.md",
     "Self Learning/Backend/JS/Untitled.md",
     "Self Learning/Backend/JS",
@@ -231,11 +237,9 @@
     "Self Learning/Mobile/Android/Kotlin + Jetpack Compose/1. Kotlin/Tổng quan về Kotlin.md",
     "Self Learning/Frontend/ReactJS/React Query.md",
     "Self Learning/Frontend/ReactJS/React Form Hook & Zod.md",
-    "Self Learning/Backend/Database/MongoDB",
     "In School/SOA/0. Microservices Patterns.md",
     "In School/SOA/1. Escaping monolithic hell.md",
     "Self Learning/Projects/BlogApp/Module Identity.md",
-    "Self Learning/Projects/BlogApp/Lộ trình dự kiến hoàn thiện dự án Blog App.md",
     "Mobile/Flutter/4 - State management/attachments/Pasted image 20251218140351.png"
   ]
 }

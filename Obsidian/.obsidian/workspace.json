@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4ad8b9a0b1470197",
+        "id": "ac606e476f27320f",
         "type": "tabs",
         "children": [
           {
-            "id": "2cf643aceebefecf",
+            "id": "a2361a976cea8b52",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "In School/IOT/Mã nguồn test linh kiện.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Mã nguồn test linh kiện"
-            }
-          },
-          {
-            "id": "aa270b32403f68c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "abc.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "abc"
+              "title": "New tab"
             }
           }
         ]
@@ -207,10 +189,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2cf643aceebefecf",
+  "active": "a2361a976cea8b52",
   "lastOpenFiles": [
-    "abc.md",
     "In School/IOT/Mã nguồn test linh kiện.md",
+    "Self Learning/Backend/JS/Untitled.md",
+    "Self Learning/Backend/JS",
+    "abc.md",
     "In School/IOT/CHƯƠNG 3 - PHÁT TRIỂN HỆ THỐNG IOT.md",
     "In School/job-portal/Untitled.md",
     "In School/job-portal/Deploy with Microsoft Azure.md",
@@ -248,12 +232,10 @@
     "Self Learning/Frontend/ReactJS/React Query.md",
     "Self Learning/Frontend/ReactJS/React Form Hook & Zod.md",
     "Self Learning/Backend/Database/MongoDB",
-    "In School/ChatApp/MediaService",
     "In School/SOA/0. Microservices Patterns.md",
     "In School/SOA/1. Escaping monolithic hell.md",
     "Self Learning/Projects/BlogApp/Module Identity.md",
     "Self Learning/Projects/BlogApp/Lộ trình dự kiến hoàn thiện dự án Blog App.md",
-    "Self Learning/Mobile/Flutter/4 - State management/4.4 BloC.md",
     "Mobile/Flutter/4 - State management/attachments/Pasted image 20251218140351.png"
   ]
 }

@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "af03a6517eb241a7",
+    "id": "f8f514ac8ff5deba",
     "type": "split",
     "children": [
       {
-        "id": "ac606e476f27320f",
+        "id": "09661ca27f61a706",
         "type": "tabs",
         "children": [
           {
-            "id": "a2361a976cea8b52",
+            "id": "e00d313848dfac32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Self Learning/NodeJs/Backend Roadmap — ExpressJS + PostgreSQL Project Management SaaS.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Backend Roadmap — ExpressJS + PostgreSQL Project Management SaaS"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1e976285d278dba2",
+    "id": "0a4da9eafaa1eff9",
     "type": "split",
     "children": [
       {
-        "id": "ff754f8b1cf9c3ae",
+        "id": "d645b10a8af8b5a7",
         "type": "tabs",
         "children": [
           {
-            "id": "90235fe76ef41526",
+            "id": "7f889bc36bc6acc3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "eb3e0ff43d884f84",
+            "id": "48b485a0b625aef5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "a0a0ad6c1af6c58d",
+            "id": "9117dcf8ac9abdbd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,18 +74,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 300
   },
   "right": {
-    "id": "e60f6fedf1b74a3a",
+    "id": "b9f59277228ab22c",
     "type": "split",
     "children": [
       {
-        "id": "4ef4ecf68f06ac99",
+        "id": "739a1ad7afb5fdef",
         "type": "tabs",
         "children": [
           {
-            "id": "8cd4bac3ff17ec86",
+            "id": "e9ca026ab315e6b1",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -107,21 +103,20 @@
             }
           },
           {
-            "id": "cb29df3081a2d5d4",
+            "id": "0a1a3abdf06015f1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mobile/Flutter/Stateless Widget & Statefull Widget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Stateless Widget & Statefull Widget"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "0bc1d7a4527f675e",
+            "id": "88a8ef423dfb682f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,46 +131,25 @@
             }
           },
           {
-            "id": "a62afa4db2a49440",
+            "id": "dd7642769ee52abe",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-10-29 08.23.23.excalidraw.md",
-                "followCursor": true,
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-10-29 08.23.23.excalidraw"
-            }
-          },
-          {
-            "id": "31e675f2dd7bac9b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "9ced5bdbedc222a8",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,61 +159,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a2361a976cea8b52",
-  "lastOpenFiles": [
-    "Self Learning/NodeJs/Backend Roadmap — ExpressJS + PostgreSQL Project Management SaaS.md",
-    "Self Learning/NodeJs",
-    "In School/IOT/Mã nguồn test linh kiện.md",
-    "Self Learning/Backend/JS/Untitled.md",
-    "Self Learning/Backend/JS",
-    "abc.md",
-    "In School/IOT/CHƯƠNG 3 - PHÁT TRIỂN HỆ THỐNG IOT.md",
-    "In School/job-portal/Untitled.md",
-    "In School/job-portal/Deploy with Microsoft Azure.md",
-    "In School/job-portal/attachments/Pasted image 20260425214953.png",
-    "In School/job-portal/attachments",
-    "Untitled.md",
-    "In School/job-portal",
-    "Self Learning/Backend/Java/3.1 OOP.md",
-    "Self Learning/Backend/Java/3.2 OOP Interview.md",
-    "Self Learning/Backend/Java/1.JDK, JRE, JVM.md",
-    "attachments/Pasted image 20260409204312.png",
-    "attachments/Pasted image 20260409201703.png",
-    "attachments/Pasted image 20260409200429.png",
-    "attachments/Pasted image 20260409195040.png",
-    "attachments/Pasted image 20260409193825.png",
-    "attachments/Pasted image 20260409193626.png",
-    "attachments/Pasted image 20260409192251.png",
-    "attachments",
-    "Self Learning/Backend/IntelliJ IDEA Keybinding trên cả hai hệ điều hành Windows và macOS.md",
-    "Self Learning/Backend/Java",
-    "In School/IOT",
-    "In School/ChatApp/1. Triển khai Api Gateway và Security.md",
-    "In School/ChatApp/tmp",
-    "Self Learning/Linux/2. Vim.md",
-    "Self Learning/Linux/1. Các lệnh Linux thông dụng.md",
-    "Cấu trúc tệp hệ thống của Linux.md",
-    "Self Learning/Linux/attachments/linux-system-files.png",
-    "Self Learning/Linux/attachments",
-    "In School/ChatApp/tmp/Documents Design.md",
-    "Self Learning/Linux",
-    "In School/ChatApp/tmp/ChatApp Document Design.md",
-    "In School/ChatApp/tmp/ChatApp API Reference.md",
-    "Self Learning/Backend/Database/MongoDB/1. Query Optimize.md",
-    "Self Learning/Mobile/Android/Kotlin + Jetpack Compose/1. Kotlin/Tổng quan về Kotlin.md",
-    "Self Learning/Frontend/ReactJS/React Query.md",
-    "Self Learning/Frontend/ReactJS/React Form Hook & Zod.md",
-    "In School/SOA/0. Microservices Patterns.md",
-    "In School/SOA/1. Escaping monolithic hell.md",
-    "Self Learning/Projects/BlogApp/Module Identity.md",
-    "Mobile/Flutter/4 - State management/attachments/Pasted image 20251218140351.png"
-  ]
+  "active": "e00d313848dfac32",
+  "lastOpenFiles": []
 }

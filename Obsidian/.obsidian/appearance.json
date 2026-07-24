@@ -1,8 +1,9 @@
 {
-  "theme": "system",
-  "cssTheme": "",
+  "theme": "moonstone",
+  "cssTheme": "Minimal",
   "textFontFamily": "Cascadia Code,JetBrainsMono Nerd Font",
   "baseFontSize": 17,
   "baseFontSizeAction": true,
-  "interfaceFontFamily": "JetBrainsMono Nerd Font"
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "accentColor": ""
 }

@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "IntelliJ IDEA Keybinding trên cả hai hệ điều hành Windows và macOS"
             }
+          },
+          {
+            "id": "53889ffab2f35be3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-07-24 08.52.59.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-07-24 08.52.59.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,8 +184,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e00d313848dfac32",
+  "active": "53889ffab2f35be3",
   "lastOpenFiles": [
+    "Self Learning/Backend/IntelliJ IDEA Keybinding trên cả hai hệ điều hành Windows và macOS.md",
+    "Excalidraw/Drawing 2026-07-24 08.52.59.excalidraw.md",
+    "Excalidraw",
     "Self Learning/Backend/Java/3.2 OOP Interview.md",
     "Self Learning/Backend/Java/3.1 OOP.md",
     "Self Learning/Backend/Java/1.JDK, JRE, JVM.md",

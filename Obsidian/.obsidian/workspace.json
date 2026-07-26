@@ -11,10 +11,14 @@
             "id": "b083a2048838b721",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AI/ollama/Hướng Dẫn Sử Dụng Ollama (Local AI).md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Hướng Dẫn Sử Dụng Ollama (Local AI)"
             }
           }
         ]
@@ -170,8 +174,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7f889bc36bc6acc3",
+  "active": "b083a2048838b721",
   "lastOpenFiles": [
+    "AI/ollama/Hướng Dẫn Sử Dụng Ollama (Local AI).md",
+    "AI/ollama",
+    "AI",
     "Self Learning/Backend/Database/MongoDB/1. Query Optimize.md",
     "NodeJS/Drawing 2026-07-24 08.56.31.excalidraw.md",
     "NodeJS/Untitled.canvas",

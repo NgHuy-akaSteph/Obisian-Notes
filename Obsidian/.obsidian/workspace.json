@@ -11,14 +11,10 @@
             "id": "b083a2048838b721",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Self Learning/Backend/Database/MongoDB/1. Query Optimize.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1. Query Optimize"
+              "title": "New tab"
             }
           }
         ]
@@ -174,8 +170,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b083a2048838b721",
+  "active": "7f889bc36bc6acc3",
   "lastOpenFiles": [
+    "Self Learning/Backend/Database/MongoDB/1. Query Optimize.md",
     "NodeJS/Drawing 2026-07-24 08.56.31.excalidraw.md",
     "NodeJS/Untitled.canvas",
     "NodeJS",
@@ -187,7 +184,6 @@
     "Self Learning/Backend/Java/1.JDK, JRE, JVM.md",
     "Self Learning/Mobile/Flutter/3 - Navigation & Routing/1. Navagation cơ bản.md",
     "Self Learning/Mobile/Flutter/2 - UI/Stateless Widget & Statefull Widget.md",
-    "Self Learning/Backend/Database/MongoDB/1. Query Optimize.md",
     "Self Learning/Projects/BlogApp/abc.md"
   ]
 }

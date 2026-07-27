@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/ollama/Hướng Dẫn Sử Dụng Ollama (Local AI).md",
-                "mode": "preview",
+                "file": "Self Learning/Backend/Java Backend Developer Roadmap (Fresher → Junior → Mid).md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hướng Dẫn Sử Dụng Ollama (Local AI)"
+              "title": "Java Backend Developer Roadmap (Fresher → Junior → Mid)"
             }
           }
         ]
@@ -177,6 +177,7 @@
   "active": "b083a2048838b721",
   "lastOpenFiles": [
     "AI/ollama/Hướng Dẫn Sử Dụng Ollama (Local AI).md",
+    "Self Learning/Backend/Java Backend Developer Roadmap (Fresher → Junior → Mid).md",
     "AI/ollama",
     "AI",
     "Self Learning/Backend/Database/MongoDB/1. Query Optimize.md",

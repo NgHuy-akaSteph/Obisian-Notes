@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Backend/Java Backend Developer Roadmap (Fresher → Junior → Mid).md",
+                "file": "Self Learning/Backend/Spring Data JPA & Hibernate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Backend Developer Roadmap (Fresher → Junior → Mid)"
+              "title": "Spring Data JPA & Hibernate"
             }
           }
         ]
@@ -176,8 +176,9 @@
   },
   "active": "b083a2048838b721",
   "lastOpenFiles": [
-    "AI/ollama/Hướng Dẫn Sử Dụng Ollama (Local AI).md",
     "Self Learning/Backend/Java Backend Developer Roadmap (Fresher → Junior → Mid).md",
+    "Self Learning/Backend/Spring Data JPA & Hibernate.md",
+    "AI/ollama/Hướng Dẫn Sử Dụng Ollama (Local AI).md",
     "AI/ollama",
     "AI",
     "Self Learning/Backend/Database/MongoDB/1. Query Optimize.md",

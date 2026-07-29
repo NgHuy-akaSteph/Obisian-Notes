@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Backend/Spring Data JPA & Hibernate.md",
+                "file": "Self Learning/Backend/Bảng Tra Cứu Lệnh SDKMAN! (Cheat Sheet).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring Data JPA & Hibernate"
+              "title": "Bảng Tra Cứu Lệnh SDKMAN! (Cheat Sheet)"
             }
           }
         ]
@@ -176,8 +176,9 @@
   },
   "active": "b083a2048838b721",
   "lastOpenFiles": [
-    "Self Learning/Backend/Java Backend Developer Roadmap (Fresher → Junior → Mid).md",
     "Self Learning/Backend/Spring Data JPA & Hibernate.md",
+    "Self Learning/Backend/Bảng Tra Cứu Lệnh SDKMAN! (Cheat Sheet).md",
+    "Self Learning/Backend/Java Backend Developer Roadmap (Fresher → Junior → Mid).md",
     "AI/ollama/Hướng Dẫn Sử Dụng Ollama (Local AI).md",
     "AI/ollama",
     "AI",

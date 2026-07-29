@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Backend/Bảng Tra Cứu Lệnh SDKMAN! (Cheat Sheet).md",
+                "file": "Self Learning/Backend/IntelliJ IDEA Keybinding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bảng Tra Cứu Lệnh SDKMAN! (Cheat Sheet)"
+              "title": "IntelliJ IDEA Keybinding"
             }
           }
         ]
@@ -176,8 +176,8 @@
   },
   "active": "b083a2048838b721",
   "lastOpenFiles": [
-    "Self Learning/Backend/Spring Data JPA & Hibernate.md",
     "Self Learning/Backend/Bảng Tra Cứu Lệnh SDKMAN! (Cheat Sheet).md",
+    "Self Learning/Backend/Spring Data JPA & Hibernate.md",
     "Self Learning/Backend/Java Backend Developer Roadmap (Fresher → Junior → Mid).md",
     "AI/ollama/Hướng Dẫn Sử Dụng Ollama (Local AI).md",
     "AI/ollama",
@@ -187,7 +187,7 @@
     "NodeJS/Untitled.canvas",
     "NodeJS",
     "Excalidraw/somethings.md",
-    "Self Learning/Backend/IntelliJ IDEA Keybinding trên cả hai hệ điều hành Windows và macOS.md",
+    "Self Learning/Backend/IntelliJ IDEA Keybinding.md",
     "Excalidraw",
     "Self Learning/Backend/Java/3.2 OOP Interview.md",
     "Self Learning/Backend/Java/3.1 OOP.md",

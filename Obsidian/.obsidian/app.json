@@ -2,7 +2,7 @@
   "showLineNumber": true,
   "spellcheck": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "./attachments",
+  "attachmentFolderPath": "./_resources",
   "readableLineLength": false,
   "strictLineBreaks": true
 }

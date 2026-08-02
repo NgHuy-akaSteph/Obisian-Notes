@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a3ed7568f1548574",
+        "id": "81a9b823705f6e5b",
         "type": "tabs",
         "children": [
           {
-            "id": "c87cd7a80539f412",
+            "id": "3dd202f080e6d390",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Personal/NodeJs/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -37,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -71,12 +75,23 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "7ce2c8127753ec20",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 327.91015625
   },
   "right": {
     "id": "b9f59277228ab22c",
@@ -167,11 +182,14 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "7f889bc36bc6acc3",
+  "active": "3dd202f080e6d390",
   "lastOpenFiles": [
+    "AI/ollama/Hướng Dẫn Sử Dụng Ollama (Local AI).md",
+    "Personal/NodeJs/Untitled.md",
     "Excalidraw/Drawing 2026-07-30 21.17.03.excalidraw.md",
     "Personal/Backend/Database/Postgre/Untitled.md",
     "Personal/Backend/Database/Postgre",
@@ -180,7 +198,6 @@
     "Personal/Backend/Bảng Tra Cứu Lệnh SDKMAN! (Cheat Sheet).md",
     "Personal/Backend/Spring Data JPA & Hibernate.md",
     "Personal/Backend/Java Backend Developer Roadmap (Fresher → Junior → Mid).md",
-    "AI/ollama/Hướng Dẫn Sử Dụng Ollama (Local AI).md",
     "AI/ollama",
     "AI",
     "Personal/Backend/Database/MongoDB/1. Query Optimize.md",

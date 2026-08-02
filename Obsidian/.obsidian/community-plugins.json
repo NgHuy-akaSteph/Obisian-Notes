@@ -4,6 +4,7 @@
   "obsidian-excalidraw-plugin",
   "obsidian-git",
   "highlightr-plugin",
-  "editing-toolbar",
-  "obsidian-icon-folder"
+  "notebook-navigator",
+  "obsidian-icon-folder",
+  "editing-toolbar"
 ]

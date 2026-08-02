@@ -1,9 +1,10 @@
 {
-  "theme": "obsidian",
-  "cssTheme": "Minimal",
-  "textFontFamily": "Cascadia Code,JetBrainsMono Nerd Font",
+  "theme": "moonstone",
+  "cssTheme": "Things",
+  "textFontFamily": "JetBrainsMono Nerd Font",
   "baseFontSize": 17,
   "baseFontSizeAction": true,
   "interfaceFontFamily": "JetBrainsMono Nerd Font",
-  "accentColor": ""
+  "accentColor": "",
+  "showRibbon": false
 }

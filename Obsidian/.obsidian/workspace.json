@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4316825dbdb876ce",
+        "id": "a3ed7568f1548574",
         "type": "tabs",
         "children": [
           {
-            "id": "b083a2048838b721",
+            "id": "c87cd7a80539f412",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Self Learning/Backend/Database/Postgre/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
         ]
@@ -170,35 +166,33 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b083a2048838b721",
+  "active": "7f889bc36bc6acc3",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-07-30 21.17.03.excalidraw.md",
-    "Self Learning/Backend/Database/Postgre/Untitled.md",
-    "Self Learning/Backend/Database/Postgre",
-    "Self Learning/Backend/IntelliJ IDEA Keybinding.md",
+    "Personal/Backend/Database/Postgre/Untitled.md",
+    "Personal/Backend/Database/Postgre",
+    "Personal/Backend/IntelliJ IDEA Keybinding.md",
     "Excalidraw",
-    "Self Learning/Backend/Bảng Tra Cứu Lệnh SDKMAN! (Cheat Sheet).md",
-    "Self Learning/Backend/Spring Data JPA & Hibernate.md",
-    "Self Learning/Backend/Java Backend Developer Roadmap (Fresher → Junior → Mid).md",
+    "Personal/Backend/Bảng Tra Cứu Lệnh SDKMAN! (Cheat Sheet).md",
+    "Personal/Backend/Spring Data JPA & Hibernate.md",
+    "Personal/Backend/Java Backend Developer Roadmap (Fresher → Junior → Mid).md",
     "AI/ollama/Hướng Dẫn Sử Dụng Ollama (Local AI).md",
     "AI/ollama",
     "AI",
-    "Self Learning/Backend/Database/MongoDB/1. Query Optimize.md",
+    "Personal/Backend/Database/MongoDB/1. Query Optimize.md",
     "NodeJS/Drawing 2026-07-24 08.56.31.excalidraw.md",
     "NodeJS/Untitled.canvas",
     "NodeJS",
     "Excalidraw/somethings.md",
-    "Self Learning/Backend/Java/3.2 OOP Interview.md",
-    "Self Learning/Backend/Java/3.1 OOP.md",
-    "Self Learning/Backend/Java/1.JDK, JRE, JVM.md",
-    "Self Learning/Mobile/Flutter/3 - Navigation & Routing/1. Navagation cơ bản.md",
-    "Self Learning/Mobile/Flutter/2 - UI/Stateless Widget & Statefull Widget.md",
+    "Personal/Backend/Java/3.2 OOP Interview.md",
+    "Personal/Backend/Java/3.1 OOP.md",
+    "Personal/Backend/Java/1.JDK, JRE, JVM.md",
+    "Personal/Mobile/Flutter/3 - Navigation & Routing/1. Navagation cơ bản.md",
+    "Personal/Mobile/Flutter/2 - UI/Stateless Widget & Statefull Widget.md",
     "Self Learning/Projects/BlogApp/abc.md"
   ]
 }

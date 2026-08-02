@@ -1,10 +1,10 @@
 [
-  "code-styler",
   "table-editor-obsidian",
   "obsidian-excalidraw-plugin",
   "obsidian-git",
-  "highlightr-plugin",
   "notebook-navigator",
   "obsidian-icon-folder",
-  "editing-toolbar"
+  "editing-toolbar",
+  "omnisearch",
+  "quickadd"
 ]

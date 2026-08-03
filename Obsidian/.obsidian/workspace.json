@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d9026c7e0c581878",
+        "id": "cda6c120af5f80d1",
         "type": "tabs",
         "children": [
           {
-            "id": "0a29ace9c3f6a13e",
+            "id": "c6b23318c6350ce1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_templates/Default Template.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Default Template"
+              "title": "New tab"
             }
           }
         ]
@@ -91,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 610.46875
+    "width": 369.9609375
   },
   "right": {
     "id": "b9f59277228ab22c",
@@ -187,16 +183,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0a29ace9c3f6a13e",
+  "active": "7ce2c8127753ec20",
   "lastOpenFiles": [
-    "AI/Hello.md",
+    "School/job-portal/attachments/Pasted image 20260425214953.png",
     "_templates/Default Template.md",
+    "AI/Hello.md",
     "AI/Test.md",
     "Invalid date.md",
-    "Personal/NodeJs/Test folder.md",
+    "Personal/Backend/NodeJs/Test folder.md",
     "_templates",
-    "Personal/NodeJs/Backend Roadmap — ExpressJS + PostgreSQL Project Management SaaS.md",
-    "AI/ollama/Hướng Dẫn Sử Dụng Ollama (Local AI).md",
+    "Personal/Backend/NodeJs/Backend Roadmap — ExpressJS + PostgreSQL Project Management SaaS.md",
+    "Personal/AI/ollama/Hướng Dẫn Sử Dụng Ollama (Local AI).md",
     "Excalidraw/Drawing 2026-07-30 21.17.03.excalidraw.md",
     "Personal/Backend/Database/Postgre/Untitled.md",
     "Personal/Backend/Database/Postgre",
@@ -205,8 +202,8 @@
     "Personal/Backend/Bảng Tra Cứu Lệnh SDKMAN! (Cheat Sheet).md",
     "Personal/Backend/Spring Data JPA & Hibernate.md",
     "Personal/Backend/Java Backend Developer Roadmap (Fresher → Junior → Mid).md",
-    "AI/ollama",
-    "AI",
+    "Personal/AI/ollama",
+    "Personal/AI",
     "Personal/Backend/Database/MongoDB/1. Query Optimize.md",
     "NodeJS/Drawing 2026-07-24 08.56.31.excalidraw.md",
     "NodeJS/Untitled.canvas",

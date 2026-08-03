@@ -34,8 +34,8 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "AI": "LiBrain",
   "Excalidraw": "LiPenTool",
-  "In School": "LiSchool",
-  "Personal": "LiBadgeCheck"
+  "Personal": "LiBadgeCheck",
+  "School": "LiSchool",
+  "Personal/AI": "LiBrain"
 }

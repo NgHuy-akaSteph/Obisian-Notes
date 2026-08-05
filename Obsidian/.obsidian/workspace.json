@@ -11,10 +11,14 @@
             "id": "c6b23318c6350ce1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_templates/Research Template.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Research Template"
             }
           }
         ]
@@ -183,8 +187,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7ce2c8127753ec20",
+  "active": "c6b23318c6350ce1",
   "lastOpenFiles": [
+    "Personal/Backend/Java/2027 - Road to Software Engineer.md",
+    "_templates/Research Template.md",
     "School/job-portal/attachments/Pasted image 20260425214953.png",
     "_templates/Default Template.md",
     "AI/Hello.md",

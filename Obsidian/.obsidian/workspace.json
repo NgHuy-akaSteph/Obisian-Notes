@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/Research Template.md",
+                "file": "Personal/Backend/BỘ KHUNG CORE BACKEND - NGÔN NGỮ CHUNG CHO MỌI HỆ THỐNG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Research Template"
+              "title": "BỘ KHUNG CORE BACKEND - NGÔN NGỮ CHUNG CHO MỌI HỆ THỐNG"
             }
           }
         ]
@@ -189,8 +189,9 @@
   },
   "active": "c6b23318c6350ce1",
   "lastOpenFiles": [
-    "Personal/Backend/Java/2027 - Road to Software Engineer.md",
     "_templates/Research Template.md",
+    "Personal/Backend/BỘ KHUNG CORE BACKEND - NGÔN NGỮ CHUNG CHO MỌI HỆ THỐNG.md",
+    "Personal/Backend/Java/2027 - Road to Software Engineer.md",
     "School/job-portal/attachments/Pasted image 20260425214953.png",
     "_templates/Default Template.md",
     "AI/Hello.md",

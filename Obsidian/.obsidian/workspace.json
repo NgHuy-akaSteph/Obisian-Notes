@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Backend/BỘ KHUNG CORE BACKEND - NGÔN NGỮ CHUNG CHO MỌI HỆ THỐNG.md",
+                "file": "Personal/Backend/Java/JVM & Memmory Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BỘ KHUNG CORE BACKEND - NGÔN NGỮ CHUNG CHO MỌI HỆ THỐNG"
+              "title": "JVM & Memmory Management"
             }
           }
         ]
@@ -189,8 +189,8 @@
   },
   "active": "c6b23318c6350ce1",
   "lastOpenFiles": [
-    "_templates/Research Template.md",
     "Personal/Backend/BỘ KHUNG CORE BACKEND - NGÔN NGỮ CHUNG CHO MỌI HỆ THỐNG.md",
+    "_templates/Research Template.md",
     "Personal/Backend/Java/2027 - Road to Software Engineer.md",
     "School/job-portal/attachments/Pasted image 20260425214953.png",
     "_templates/Default Template.md",
@@ -218,7 +218,7 @@
     "Excalidraw/somethings.md",
     "Personal/Backend/Java/3.2 OOP Interview.md",
     "Personal/Backend/Java/3.1 OOP.md",
-    "Personal/Backend/Java/1.JDK, JRE, JVM.md",
+    "Personal/Backend/Java/JVM & Memmory Management.md",
     "Personal/Mobile/Flutter/3 - Navigation & Routing/1. Navagation cơ bản.md",
     "Personal/Mobile/Flutter/2 - UI/Stateless Widget & Statefull Widget.md",
     "Self Learning/Projects/BlogApp/abc.md"
